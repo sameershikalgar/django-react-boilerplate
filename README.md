@@ -2,8 +2,6 @@
 
 A modern full-stack web application boilerplate with Django REST Framework backend and React frontend.
 
-## Features
-
 ### Backend (Django)
 
 - Django 4.2+ with REST Framework
@@ -27,36 +25,6 @@ A modern full-stack web application boilerplate with Django REST Framework backe
 - Python 3.8+
 - Node.js 14+
 - npm or yarn
-
-## Project Structure
-
-```
-django-react-boilerplate/
-├── backend/
-│   ├── settings.py
-│   └── urls.py
-├── api/
-│   ├── models.py
-│   ├── serializers.py
-│   ├── views.py
-│   ├── urls.py
-│   └── admin.py
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── pages/
-│   │   │   ├── Home.js
-│   │   │   └── Items.js
-│   │   ├── services/
-│   │   │   └── api.js
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│   └── package.json
-├── requirements.txt
-├── .env.example
-└── README.md
-```
 
 ## Setup Instructions
 
